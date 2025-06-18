@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=RifatArefinBD&style=flat-square&color=grey" alt="Profile Views"/>
+</p>
 
-<!--
-**RifatArefinBD/RifatArefinBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ― contacts
+[Discord](https://discord.com/users/844770923537367080) | [Website](https://vorlentis.xyz)
 
-Here are some ideas to get you started:
+### ― about
+- Name: Rifat Arefin Chowdhury
+- Focus: Programming, Gaming, Automation
+- Projects: Broke AI
+- Team: Vorlentis Tech™
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ― tech
+- Languages: Python, JavaScript, Nodejs
+- Platforms: Windows
+- Frameworks: Next.js, Gatsby, Remix, RedwoodJS, React Router, React Native, Material UI, Ant Design, and React Bootstrap.
+
+<sub>Last update: June 2025</sub>
